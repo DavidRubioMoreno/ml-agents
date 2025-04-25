@@ -64,6 +64,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.ide.visualstudio": {
+      "version": "2.0.23",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.inputsystem": {
       "version": "1.7.0",
       "depth": 0,
@@ -81,7 +90,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:../../com.unity.ml-agents",
+      "version": "file:C:/Developer/IA/ml-agents/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {
